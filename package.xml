@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>zeroconf_bonjour</name>
+  <version>0.1.0</version>
+  <description>
+
+     zeroconf_bonjour
+
+  </description>
+  <maintainer email="yichoe@yujinrobot.com">Yeong-il Choe</maintainer>
+  <author>Yeong-il Choe</author>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>zeroconf_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>zeroconf_msgs</run_depend>
+
+</package>
